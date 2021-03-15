@@ -7,3 +7,4 @@ plotly==4.14.3
 ortools==8.2.8710
 dataclasses==0.6
 pytest==6.2.2
+black==20.8b1
